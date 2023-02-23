@@ -2,7 +2,7 @@
   "name": "mapty",
   "version": "1.0.0",
   "description": "app for logging workouts on map",
-  "main": "script.js",
+  "default": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/milan44i/mapty-app.git"
   },
-  "author": "",
+  "author": "Milan Stankovic",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/milan44i/mapty-app/issues"
