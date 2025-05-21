@@ -1,5 +1,5 @@
 # Mapty web application
 
-Application for logging your running/cycling workouts directly on the map
+Application for logging your running/cycling workouts directly on the interactive map 🗺️
 
-[Demo version](https://mapty-milan44.netlify.app)
+[Live version](https://mapty-milan44.netlify.app)
